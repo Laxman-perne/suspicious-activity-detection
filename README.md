@@ -72,8 +72,6 @@ Sample output:
 [RESULT] Suspicious Activity Detected Percentage: 14.00% of video
 ```
 
-...
-
 ---
 
 ## 📃 License
